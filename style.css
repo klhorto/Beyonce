@@ -1,0 +1,53 @@
+#title {
+  color: Black;
+  text-align: center;
+  font-style: italic;
+  font-size: 40px;
+  
+}
+
+#main {
+  background-color: #FFD700;
+}
+
+h2 {
+  color: #522B83;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+
+#image { 
+  width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+    
+ }
+#img-caption {
+  color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+#tribute-info {
+  text-align: auto;
+  font-family: "Times New Roman" ;
+  font-size: 18px;
+  color: black;
+}
+
+#tribute-link {
+  text-align: auto;
+  font-family: "Times New Roman";
+  font-size: 25px;
+}
+
+#quote {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+}
