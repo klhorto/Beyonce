@@ -1,8 +1,15 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  
+}
+
 #title {
   color: Black;
   text-align: center;
   font-style: italic;
   font-size: 40px;
+  margin: 0;
   
 }
 
@@ -34,11 +41,15 @@ display: block;
 }
 
 #tribute-info {
-  text-align: auto;
+  text-align: center;
   font-family: "Times New Roman" ;
   font-size: 18px;
   color: black;
+  list-style-position: inside;
+  
 }
+
+
 
 
 
